@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wxxmy\\Desktop\\加密算法\\非对称加密\\非对称加密.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wxxmy\\Desktop\\加密算法\\非对称加密\\非对称加密.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wxxmy\\Desktop\\加密算法\\非对称加密\\非对称加密.csproj",
+        "projectName": "非对称加密",
+        "projectPath": "C:\\Users\\wxxmy\\Desktop\\加密算法\\非对称加密\\非对称加密.csproj",
+        "packagesPath": "C:\\Users\\wxxmy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wxxmy\\Desktop\\加密算法\\非对称加密\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wxxmy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
